@@ -9780,7 +9780,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-progress {
-  height: 0.6rem;
+  height: 0.3rem;
 }
 
 .resume-company-name {
@@ -9841,12 +9841,21 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   font-size: 0.875rem;
 }
 
+.resume-award-time {
+  color: #aab4c3;
+  font-size: 0.875rem;
+}
+
 .resume-lang-name {
   color: #434E5E;
 }
 
 .footer .fa-heart {
   color: #fb866a;
+}
+
+.copyright {
+  opacity: 0.1;
 }
 
 @media (max-width: 767.98px) {
